@@ -7,3 +7,5 @@ Ademas de dar informacion extra en la terminal como distancia recorrida, que tip
 python,
 plotly graph,
 numpy
+## errores
+Yo aun no he visto ningun error en el codigo, pero si ves alguno estaria agradecido se me lo pudieces comentar.
