@@ -4,6 +4,6 @@ Este es un programa de Python, en el cual le pide al usuario la cantidad de cohe
 Luego de hacer las preguntas, el programa envia al usuario a una pagina web en la que se muestra el grafico con las instrucciones que el usuario dio al programa
 Ademas de dar informacion extra en la terminal como distancia recorrida, que tipo de órbita es, y cuanto CO2 produjo cada cohete durante su trayecto.
 ## tecnologias
-python
-plotly graph
+python,
+plotly graph,
 numpy
