@@ -11,4 +11,3 @@ numpy
 Yo aun no he visto ningun error, excepto que al escribir letras en las partes que te pregunta numeros el programa da error, pero si ves algun otro error estaria agradecido se me lo pudieces comentar.
 ##imagen del proyecto
 en esta imagen se pueden ver las órbitas 3D que  genera el programa en base a lo que dice el usuario
-![imagen del proyecto](PAPU SD/imagenes de trabajos/órbita 3D
